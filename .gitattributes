@@ -19,3 +19,4 @@
 *.1 filter=lfs diff=lfs merge=lfs -text
 *.def filter=lfs diff=lfs merge=lfs -text
 *.pat filter=lfs diff=lfs merge=lfs -text
+*.TXT filter=lfs diff=lfs merge=lfs -text
