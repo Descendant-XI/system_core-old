@@ -28,3 +28,4 @@
 *.prop filter=lfs diff=lfs merge=lfs -text
 *.pl filter=lfs diff=lfs merge=lfs -text
 *.t filter=lfs diff=lfs merge=lfs -text
+*.orig filter=lfs diff=lfs merge=lfs -text
