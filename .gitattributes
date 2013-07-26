@@ -30,3 +30,4 @@
 *.t filter=lfs diff=lfs merge=lfs -text
 *.orig filter=lfs diff=lfs merge=lfs -text
 *.png filter=lfs diff=lfs merge=lfs -text
+*.in filter=lfs diff=lfs merge=lfs -text
