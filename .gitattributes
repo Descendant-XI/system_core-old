@@ -38,3 +38,4 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
 *.auditd filter=lfs diff=lfs merge=lfs -text
 *.property filter=lfs diff=lfs merge=lfs -text
+*.clang-format filter=lfs diff=lfs merge=lfs -text
