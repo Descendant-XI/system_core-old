@@ -42,3 +42,4 @@
 *.hourly filter=lfs diff=lfs merge=lfs -text
 *.rules filter=lfs diff=lfs merge=lfs -text
 *.gyp filter=lfs diff=lfs merge=lfs -text
+*.project_alias filter=lfs diff=lfs merge=lfs -text
