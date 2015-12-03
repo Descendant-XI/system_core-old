@@ -49,3 +49,4 @@
 *.options filter=lfs diff=lfs merge=lfs -text
 *.bp filter=lfs diff=lfs merge=lfs -text
 *.json filter=lfs diff=lfs merge=lfs -text
+*.aidl filter=lfs diff=lfs merge=lfs -text
