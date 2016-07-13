@@ -51,3 +51,4 @@
 *.json filter=lfs diff=lfs merge=lfs -text
 *.aidl filter=lfs diff=lfs merge=lfs -text
 *.md filter=lfs diff=lfs merge=lfs -text
+*.template filter=lfs diff=lfs merge=lfs -text
