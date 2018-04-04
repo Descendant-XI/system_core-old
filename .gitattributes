@@ -62,3 +62,4 @@
 *.data filter=lfs diff=lfs merge=lfs -text
 *.odex filter=lfs diff=lfs merge=lfs -text
 *.policy filter=lfs diff=lfs merge=lfs -text
+*.bash filter=lfs diff=lfs merge=lfs -text
