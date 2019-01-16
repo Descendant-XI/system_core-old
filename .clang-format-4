@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6a59f9f487a1066c87c295d6c82159aa2ebb25973e9596fae14a33f8474a58aa
-size 251
+../../build/soong/scripts/system-clang-format
