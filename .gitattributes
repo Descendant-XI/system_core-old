@@ -68,3 +68,4 @@
 *.avbpubkey filter=lfs diff=lfs merge=lfs -text
 *.map filter=lfs diff=lfs merge=lfs -text
 *.sysprop filter=lfs diff=lfs merge=lfs -text
+*.cd filter=lfs diff=lfs merge=lfs -text
